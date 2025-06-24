@@ -1,0 +1,1 @@
+# Research-on-MLP-Fault-Diagnosis-Model-for-Wind-Turbines-Based-on-Simulation-Data
